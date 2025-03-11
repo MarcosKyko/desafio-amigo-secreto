@@ -1,5 +1,5 @@
 # desafio-amigo-secreto
-Primeiros código em JavaScript na formação Alura.  
+Primeiro código em JavaScript na formação Alura.  
 Aplicação para sortear um amigo de uma lista entrada pelo usuário.
 Ao clicar "Adicionar", dois alertas podem ser emitidos:
   a) se o campo estiver em branco, emite alerta para digitar um nome;
